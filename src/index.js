@@ -5,4 +5,3 @@ import App from './components/App';
 import * as registerServiceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();

@@ -1,0 +1,5 @@
+node_modules
+.vscode
+**/scripts/*
+node_modules/
+config/*
